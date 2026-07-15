@@ -1,3 +1,4 @@
 https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://live.fanmingming.com/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/s14685/tv/main/iptvhk.txt
+https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
